@@ -10,6 +10,7 @@ Aplicação frontend de vizualização de markdown
 ## 🔨 Implementações
 
 - [X] Edição de Markdown
+- [X] Todos os testes aprovados
 
 ## 🎨 Layout
 
@@ -20,7 +21,7 @@ Sem figma para essa aplicação
 - [X] React
 - [X] Chakra
 - [X] Typescript
-- [X] Vit
+- [X] Vite
 
 
 
