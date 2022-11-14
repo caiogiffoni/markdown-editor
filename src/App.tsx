@@ -55,7 +55,7 @@ And here. | Okay. | I think we get it.
 
   const [editor, setEditor] = useState(defaultText);
   return (
-    <Box bgColor="#87B5B5">
+    <Box bgColor="#87B5B5" minH="100vh">
       <Box
         display="flex"
         flexDirection="column"
